@@ -6,7 +6,7 @@ ICQNNBot - Бот для ICQ использующий предобученную
 Пользователь отправляет боту фото чего либо, бот обрабатывает изображение и выдаёт результат. 
 
 За основу бота была взята библиотека: 
-https://pjreddie.com/darknet/yolo/ 
+https://pjreddie.com/darknet/yolo/ \
 
 Так же необходимы веса: \
 wget https://pjreddie.com/media/files/darknet19.weights 
