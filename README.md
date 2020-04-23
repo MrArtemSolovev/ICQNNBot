@@ -7,6 +7,10 @@ ICQNNBot - Бот для ICQ использующий предобученную
 
 За основу бота была взята библиотека: 
 https://pjreddie.com/darknet/yolo/
+Так же необходимы веса: 
+wget https://pjreddie.com/media/files/darknet19.weights
+wget https://pjreddie.com/media/files/yolov3-tiny.weights
+
 
 Бот получился достаточно удобным для определения пород кошек и собак :) 
 
