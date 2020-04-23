@@ -10,3 +10,4 @@ https://pjreddie.com/darknet/yolo/
 
 Бот получился достаточно удобным для определения пород кошек и собак :) 
 
+![Test Image 1](prew.png)
