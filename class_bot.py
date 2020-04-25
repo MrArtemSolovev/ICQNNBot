@@ -13,7 +13,7 @@ from bot.filter import Filter
 
 TOKEN = "///"
 
- 
+
 bot = Bot(token=TOKEN)
 
 # временные файлы храним в /tmp, чтобы не переполнить хранилище
